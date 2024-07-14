@@ -4,6 +4,10 @@
     line-height: 1.6;
 }
 
+#site-title, #site-subtitle, #site-name, #aside-content .author-info__name, #aside-content .author-info__description {
+    font-family: "LXGW WenKai", "Hannotate SC", "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
 mjx-container {
     font-size: 100% !important;
 }
