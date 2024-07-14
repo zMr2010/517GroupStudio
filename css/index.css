@@ -13280,6 +13280,7 @@ h1.page-title + .tag-cloud-list {
   -o-transition: color 0s;
   -ms-transition: color 0s;
   transition: color 0s;
+  font-family: "LXGW WenKai Screen" !important;
 }
 .post #blog_name #site-name .title {
   -webkit-transition: 0s;
