@@ -4,8 +4,8 @@
     line-height: 1.6;
 }
 
-div.title {
-    font-family: "LXGW WenKai"!important;
+#blog_name #site-name .title {
+    font-family: "LXGW WenKai Screen"!important;
 }
 
 mjx-container {
